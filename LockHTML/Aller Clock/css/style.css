@@ -1,0 +1,4 @@
+@font-face{font-family:Aller;src:url(../fonts/aller.regular.ttf);}
+body{font-family:Aller;color:#fff;text-align:center;margin:0 auto;overflow:hidden;}
+#date{font-weight:100;text-indent:3px;font-size: 1.2em;margin-top: -11px;}
+#time{font-size:80.5px;}
